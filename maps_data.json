@@ -1,0 +1,237 @@
+[
+{
+    "variable": "AIR_TEMP_F",
+    "json_file": "station_data.json",
+    "geojson_file": "WA_State_Boundary.geojson",
+    "min_lat": 45.543541,
+    "max_lat": 49.002494,
+    "min_lon": -124.848974,
+    "max_lon": -116.916071,
+    "v_min": -10,
+    "v_max": 115,
+    "grid_space": 0.01,
+    "variogram_model": "gaussian",
+    "color_scheme": [
+        [0, "darkblue"],
+        [0.2, "lightblue"],
+        [0.35, "lightcyan"],
+        [0.5, "lightgreen"],
+        [0.65, "green"],
+        [0.8, "darkgoldenrod"],
+        [0.9, "orange"],
+        [1.0, "darkred"]
+    ],
+    "contour": 75,
+    "nlags": 20,
+    "projection": "merc"
+},
+
+{
+    "variable": "SOIL_TEMP_2_IN_F",
+    "json_file": "station_data.json",
+    "geojson_file": "WA_State_Boundary.geojson",
+    "min_lat": 45.543541,
+    "max_lat": 49.002494,
+    "min_lon": -124.848974,
+    "max_lon": -116.916071,
+    "v_min": -10,
+    "v_max": 115,
+    "grid_space": 0.01,
+    "variogram_model": "gaussian",
+    "color_scheme": [
+        [0, "darkblue"],
+        [0.2, "lightblue"],
+        [0.35, "lightcyan"],
+        [0.5, "lightgreen"],
+        [0.65, "green"],
+        [0.8, "darkgoldenrod"],
+        [0.9, "orange"],
+        [1.0, "darkred"]
+    ],
+    "contour": 75,
+    "nlags": 20,
+    "projection": "merc"
+},
+
+{
+    "variable": "SOIL_TEMP_8_IN_F",
+    "json_file": "station_data.json",
+    "geojson_file": "WA_State_Boundary.geojson",
+    "min_lat": 45.543541,
+    "max_lat": 49.002494,
+    "min_lon": -124.848974,
+    "max_lon": -116.916071,
+    "v_min": -10,
+    "v_max": 115,
+    "grid_space": 0.01,
+    "variogram_model": "gaussian",
+    "color_scheme": [
+        [0, "darkblue"],
+        [0.2, "lightblue"],
+        [0.35, "lightcyan"],
+        [0.5, "lightgreen"],
+        [0.65, "green"],
+        [0.8, "darkgoldenrod"],
+        [0.9, "orange"],
+        [1.0, "darkred"]
+    ],
+    "contour": 75,
+    "nlags": 20,
+    "projection": "merc"
+},
+
+{
+    "variable": "SOLAR_RAD_WM2",
+    "json_file": "station_data.json",
+    "geojson_file": "WA_State_Boundary.geojson",
+    "min_lat": 45.543541,
+    "max_lat": 49.002494,
+    "min_lon": -124.848974,
+    "max_lon": -116.916071,
+    "v_min": -10,
+    "v_max": 115,
+    "grid_space": 0.01,
+    "variogram_model": "gaussian",
+    "color_scheme": [
+        [0.0, "black"],
+        [0.05, "darkgray"],
+        [0.15, "gray"],
+        [0.25, "lightgray"],
+        [0.35, "lightblue"],
+        [0.45, "lightsteelblue"],
+        [0.55, "lightblue"],
+        [0.65, "yellowgreen"],
+        [0.75, "yellow"],
+        [0.85, "orange"],
+        [0.95, "red"],
+        [1.0, "darkred"]
+    ],
+    "contour": 75,
+    "nlags": 20,
+    "projection": "merc"
+},
+{
+    "variable": "AIR_TEMP_F",
+    "json_file": "station_data.json",
+    "geojson_file": "WA_State_Boundary.geojson",
+    "min_lat": 45.543541,
+    "max_lat": 49.002494,
+    "min_lon": -124.848974,
+    "max_lon": -116.916071,
+    "v_min": -10,
+    "v_max": 115,
+    "grid_space": 0.01,
+    "variogram_model": "gaussian",
+    "color_scheme": [
+        [0, "darkblue"],
+        [0.2, "lightblue"],
+        [0.35, "lightcyan"],
+        [0.5, "lightgreen"],
+        [0.65, "green"],
+        [0.8, "darkgoldenrod"],
+        [0.9, "orange"],
+        [1.0, "darkred"]
+    ],
+    "contour": 75,
+    "nlags": 20,
+    "projection": "merc"
+},
+
+{
+    "variable": "LEAF_WET",
+    "json_file": "station_data.json",
+    "geojson_file": "WA_State_Boundary.geojson",
+    "min_lat": 45.543541,
+    "max_lat": 49.002494,
+    "min_lon": -124.848974,
+    "max_lon": -116.916071,
+    "v_min": -10,
+    "v_max": 115,
+    "grid_space": 0.01,
+    "variogram_model": "gaussian",
+    "color_scheme": [
+        [0.0, "gray"],
+        [0.4, "lightblue"],
+        [1.0, "darkblue"]
+    ],
+    "contour": 75,
+    "nlags": 20,
+    "projection": "merc"
+},
+
+{
+    "variable": "PRECIP_IN",
+    "json_file": "station_data.json",
+    "geojson_file": "WA_State_Boundary.geojson",
+    "min_lat": 45.543541,
+    "max_lat": 49.002494,
+    "min_lon": -124.848974,
+    "max_lon": -116.916071,
+    "v_min": -10,
+    "v_max": 115,
+    "grid_space": 0.01,
+    "variogram_model": "gaussian",
+    "color_scheme": [
+        [0.0, "grey"],
+        [0.15, "lightsteelblue"],
+        [0.3, "royalblue"],
+        [0.5, "lightblue"],
+        [0.75, "blue"],
+        [1.0, "darkblue"]
+    ],
+    "contour": 75,
+    "nlags": 20,
+    "projection": "merc"
+},
+
+{
+    "variable": "WIND_SPEED_2M_MPH",
+    "json_file": "station_data.json",
+    "geojson_file": "WA_State_Boundary.geojson",
+    "min_lat": 45.543541,
+    "max_lat": 49.002494,
+    "min_lon": -124.848974,
+    "max_lon": -116.916071,
+    "v_min": -10,
+    "v_max": 115,
+    "grid_space": 0.01,
+    "variogram_model": "gaussian",
+    "color_scheme": [
+        [0.0, "limegreen"],
+        [0.16, "yellowgreen"],
+        [0.32, "greenyellow"],
+        [0.48, "darkgoldenrod"],
+        [0.64, "orange"],
+        [0.72, "red"],
+        [1.0, "darkred"]
+    ],
+    "contour": 75,
+    "nlags": 20,
+    "projection": "merc"
+},
+
+{
+"variable": "REL_HUMID_PCNT",
+"json_file": "station_data.json",
+"geojson_file": "WA_State_Boundary.geojson",
+"min_lat": 45.543541,
+"max_lat": 49.002494,
+"min_lon": -124.848974,
+"max_lon": -116.916071,
+"v_min": -10,
+"v_max": 115,
+"grid_space": 0.01,
+"variogram_model": "gaussian",
+"color_scheme": [
+    [0.0, "grey"],
+    [0.15, "lightsteelblue"],
+    [0.3, "royalblue"],
+    [0.5, "lightblue"],
+    [0.75, "blue"],
+    [1.0, "darkblue"]
+],
+"contour": 75,
+"nlags": 20,
+"projection": "merc"
+}
+]
